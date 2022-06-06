@@ -215,15 +215,20 @@ h3{font-size: 2.4rem;}
         column-gap: 2rem;
     }
 }
+.camiseta{
+    width: 100%;
+}
 
 .formulario{
     display: grid;
     grid-template-columns: repeat(2,1fr);
     gap: 2rem;
+    
 }
 
 .formulario__campo{
     border-color: var(--primarioOscuro);
+    width: 100%;
     border-width: 1rem;
     border-style: solid;
     background-color: transparent;
