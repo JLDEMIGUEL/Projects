@@ -243,6 +243,7 @@ img{max-width: 100%;}
     background-color: var(--blanco);
     margin:-5rem auto 0 auto;
     width: 95%;
+    max-width: 120rem;
     padding: 5rem;
 }
 
@@ -259,8 +260,10 @@ img{max-width: 100%;}
 
 .campo__field{
     flex: 1;
+    width: 100%;
     border: 1px solid var(--gris);
 }
+
 .campo__field--textarea{
     height: 20rem;
 
