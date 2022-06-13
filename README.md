@@ -2,7 +2,7 @@
 Projects from Udemy course: Web design
 
 
-PROJECT 4: Fesrival Músic :
+PROJECT 4: Festival Música :
 https://jldemiguelproject4.netlify.app/
 
 PROJECT 3: Blog de café:
