@@ -1,9 +1,6 @@
 # Projects
 Projects from Udemy course: Web design
 
-PROJECT 5: BienesRaices
-Descripción: Proyecto MVC, PHP, MYSQL (SASS, Gulp)
-
 PROJECT 4: Festival Música:
 Descripción: Proyecto HTML, CSS y Javascript, utilizando SASS y Gulp
 https://jldemiguelproject4.netlify.app/
