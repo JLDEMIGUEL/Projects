@@ -1,18 +1,16 @@
 # Projects
-Projects from Udemy course: Web design
 
-PROJECT 4: Festival Música:
-Descripción: Proyecto HTML, CSS y Javascript, utilizando SASS y Gulp
+First steps in web programming. The first 4 web sites I've programmed.
+HTML5 / CSS3 / JavaScript.
+
+PROJECT 4: HTML, CSS and JavaScript, using SASS and Gulp
 https://jldemiguelproject4.netlify.app/
 
-PROJECT 3: Blog de café:
-Descripción: Proyecto HTML y CSS
+PROJECT 3: HTML and CSS
 https://jldemiguelproject3.netlify.app/
 
-PROJECT 2: FrontEnd Store:
-Descripción: Proyecto HTML y CSS
+PROJECT 2: HTML and CSS
 https://jldemiguelproject2.netlify.app/
 
-PROJECT 1: Desarrollador Freelancer:
-Descripción: Proyecto HTML y CSS
+PROJECT 1: HTML and CSS
 https://jldemiguelproject1.netlify.app/
